@@ -6,40 +6,6 @@
         <option name="connectionName" value="Final" />
         <option name="connectionType" value="MDAPI" />
         <option name="defaultSourceRootUrl" value="file://$MODULE_DIR$/src" />
-        <option name="moduleContents">
-          <ModuleContents>
-            <option name="contentSelectionType" value="SELECTED" />
-            <option name="manifest">
-              <Manifest>
-                <option name="types">
-                  <set>
-                    <MetadataType>
-                      <option name="name" value="ApexClass" />
-                    </MetadataType>
-                    <MetadataType>
-                      <option name="name" value="ApexComponent" />
-                    </MetadataType>
-                    <MetadataType>
-                      <option name="name" value="ApexPage" />
-                    </MetadataType>
-                    <MetadataType>
-                      <option name="name" value="ApexTrigger" />
-                    </MetadataType>
-                    <MetadataType>
-                      <option name="name" value="AuraDefinitionBundle" />
-                    </MetadataType>
-                    <MetadataType>
-                      <option name="name" value="LightningComponentBundle" />
-                    </MetadataType>
-                    <MetadataType>
-                      <option name="name" value="StaticResource" />
-                    </MetadataType>
-                  </set>
-                </option>
-              </Manifest>
-            </option>
-          </ModuleContents>
-        </option>
       </configuration>
     </facet>
   </component>

@@ -10,5 +10,5 @@ trigger PurchaseOrdersTrigger on Purchase_Orders__c (
         after update,
         after delete,
         after undelete) {
-
+        PurchaseOrdersTriggerHandler.Handle(Trigger.old, Trigger.new, Trigger.operationType);
 }
